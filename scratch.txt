@@ -1,0 +1,10 @@
+Inputs:
+    - number of men
+    - number of women
+    - number of courts
+    - number of rounds
+
+Options:
+    - dupe matches
+    - empty courts
+    - 
